@@ -1,0 +1,4 @@
+int x = 5 ;
+int y = 6 ;
+1nt ans = x + y ;
+cout << ans ;
